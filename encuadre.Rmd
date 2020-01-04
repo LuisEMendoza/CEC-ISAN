@@ -1,0 +1,43 @@
+---
+title: "Encuadre"
+---
+
+## Fines del aprendizaje o formación
+
+Diseñar procesos y herramientas tecnológicas de Control Estadístico de la Calidad en los entornos organizacionales o empresariales para su aseguramiento y toma de decisiones que contribuyan a su mejora continua.
+
+## Contenido temático
+
+UNIDAD I. Teoría general y herramientas básicas.
+
+1. Conceptos e importancia de la Calidad.
+2. Costos de Calidad.
+3. Cadena cliente-proveedor.
+4. Recolección de datos.
+5. Herramientas administrativas.
+6. Herramientas estadísticas.
+7. Habilidad y capacidad del proceso.
+  
+UNIDAD II. Gráficas de control para variables.
+
+1. Conceptos generales y principios del CEP.
+2. Elaboración e interpretación de gráficas para variables.
+3. Capacidad de proceso Cp, Cpk y Cpm.
+
+UNIDAD III. Planes de muestreo de aceptación.
+
+1. Conceptos básicos del muestreo de aceptación.
+2. Uso de tablas de muestreo (MIL-STD, 414, 105D y Dodge Roming).
+
+## Criterios de Evaluación.
+
+Criterio | Ponderación
+:---|---:
+Reportes de lectura | 5%
+Exposición temática o de trabajos | 5%
+Participación en clase | 5%
+Análisis de casos | 10%
+Prácticas en _software_ | 10%
+Reportes escritos de observaciones e información recopilada | 5%
+Exámenes | 60%
+_TOTAL_ | 100%
