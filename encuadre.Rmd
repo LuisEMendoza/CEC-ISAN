@@ -24,7 +24,13 @@ UNIDAD II. Gráficas de control para variables.
 2. Elaboración e interpretación de gráficas para variables.
 3. Capacidad de proceso Cp, Cpk y Cpm.
 
-UNIDAD III. Planes de muestreo de aceptación.
+UNIDAD III. Gráficas de control para atributos
+
+1. Conceptos generales de atributos.
+2. Elaboración e interpretación de gráficas para atributos
+3. Capacidad de proceso.
+
+UNIDAD IV. Planes de muestreo de aceptación.
 
 1. Conceptos básicos del muestreo de aceptación.
 2. Uso de tablas de muestreo (MIL-STD, 414, 105D y Dodge Roming).
